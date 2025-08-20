@@ -1,0 +1,4 @@
+aiogram
+aiohttp
+tinydb
+python-dotenv
